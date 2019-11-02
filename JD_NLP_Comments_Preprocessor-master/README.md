@@ -1,3 +1,5 @@
-# JD_NLP_Comments_Preprocessor
+#2019.11.02 京东升级了反爬系统，已经无法通过评论jason页面直接读取评论（直接访问评论的jason网址会返回空），本代码已无效。
+
+# JD_NLP_Comments_Preprocessor20
 京东商品评论爬取分析
 爬取京东某商品的评论，预处理得到特征矩阵，然后进行分析处理
